@@ -1,0 +1,4 @@
+ } else {
+   guesses--
+   if guesses > 0 {
+    fmt.Println("Incorrect guess. Try again.")
